@@ -1,0 +1,5 @@
+pyyaml
+requests
+selenium
+bs4
+pandas
